@@ -1,0 +1,758 @@
+{
+  "generated_at": "2026-05-21T09:47:46.793Z",
+  "total_unique_images": 92,
+  "downloaded": 52,
+  "skipped": 39,
+  "failed": 1,
+  "images": {
+    "add_categorize.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/add_categorize.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 46002,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/build_ecommerce_customer_support_agent.md"
+      ]
+    },
+    "add_component.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/add_component.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 491074,
+      "referenced_in": [
+        "guides/agent/agent_introduction.md"
+      ]
+    },
+    "add_keyword_question.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/add_keyword_question.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 425279,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md",
+        "quickstart.md"
+      ]
+    },
+    "add_tools.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/add_tools.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 539473,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "agent_list.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/agent_list.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 212208,
+      "referenced_in": [
+        "guides/agent/agent_introduction.md"
+      ]
+    },
+    "agent_template_list.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/agent_template_list.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 331761,
+      "referenced_in": [
+        "guides/agent/agent_introduction.md"
+      ]
+    },
+    "auto_metadata_settings.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/auto_metadata_settings.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 195713,
+      "referenced_in": [
+        "guides/dataset/advanced/auto_metadata.md"
+      ]
+    },
+    "change_chunking_method.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/change_chunking_method.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 95074,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md"
+      ]
+    },
+    "chat_reasoning.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/chat_reasoning.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 731445,
+      "referenced_in": [
+        "guides/chat/implement_deep_research.md"
+      ]
+    },
+    "chat_setting.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/chat_setting.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 808461,
+      "referenced_in": [
+        "guides/chat/start_chat.md"
+      ]
+    },
+    "chat_tavily.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/chat_tavily.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 929576,
+      "referenced_in": [
+        "guides/chat/implement_deep_research.md"
+      ]
+    },
+    "chat_thermal_solution.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/chat_thermal_solution.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 671182,
+      "referenced_in": [
+        "guides/chat/start_chat.md",
+        "quickstart.md"
+      ]
+    },
+    "chat_variables.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/chat_variables.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 723235,
+      "referenced_in": [
+        "guides/chat/set_chat_variables.md"
+      ]
+    },
+    "child_chunking_parser.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/child_chunking_parser.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": null,
+      "referenced_in": [
+        "guides/dataset/configure_child_chunking_strategy.md"
+      ]
+    },
+    "child_chunking.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/child_chunking.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 187223,
+      "referenced_in": [
+        "guides/dataset/configure_child_chunking_strategy.md"
+      ]
+    },
+    "choose_tavily_mcp_server.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/choose_tavily_mcp_server.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 579391,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "click_metadata.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/click_metadata.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 73116,
+      "referenced_in": [
+        "guides/dataset/manage_metadata.md"
+      ]
+    },
+    "clustering_and_summarizing.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/clustering_and_summarizing.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 304268,
+      "referenced_in": [
+        "guides/dataset/advanced/enable_raptor.md"
+      ]
+    },
+    "codeexec_output1.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/codeexec_output1.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 87387,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/code.md"
+      ]
+    },
+    "codeexec_output2.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/codeexec_output2.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 170266,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/code.md"
+      ]
+    },
+    "configure_knowledge_base.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/configure_knowledge_base.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 987777,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md",
+        "quickstart.md"
+      ]
+    },
+    "create_knowledge_base.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/create_knowledge_base.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 164698,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md"
+      ]
+    },
+    "create_search_app.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/create_search_app.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 94764,
+      "referenced_in": [
+        "guides/ai_search.md"
+      ]
+    },
+    "data_extraction.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/data_extraction.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 65461,
+      "referenced_in": [
+        "guides/dataset/select_pdf_parser.md"
+      ]
+    },
+    "dataset_ingestion_settings.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/dataset_ingestion_settings.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 226633,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "delete_datasets.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/delete_datasets.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 148388,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md"
+      ]
+    },
+    "delete_invite.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/delete_invite.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 362263,
+      "referenced_in": [
+        "guides/team/manage_team_members.md"
+      ]
+    },
+    "docker-compose_missing.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/docker-compose_missing.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 54037,
+      "referenced_in": [
+        "faq.md"
+      ]
+    },
+    "document_clustering_as_preprocessing.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/document_clustering_as_preprocessing.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 380483,
+      "referenced_in": [
+        "guides/dataset/advanced/enable_raptor.md"
+      ]
+    },
+    "ecommerce_cs_agent_entirety.PNG": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ecommerce_cs_agent_entirety.PNG",
+      "source_type": "ragflow-docs",
+      "size_bytes": 129446,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/build_ecommerce_customer_support_agent.md"
+      ]
+    },
+    "edit_mcp_server.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/edit_mcp_server.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 192778,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "edit_metadata.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/edit_metadata.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 48137,
+      "referenced_in": [
+        "guides/dataset/manage_metadata.md"
+      ]
+    },
+    "embed_agent_into_webpage.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/embed_agent_into_webpage.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 493829,
+      "referenced_in": [
+        "guides/agent/embed_agent_into_webpage.md"
+      ]
+    },
+    "embed_chat_into_webpage.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/embed_chat_into_webpage.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 636043,
+      "referenced_in": [
+        "guides/chat/start_chat.md"
+      ]
+    },
+    "embedded_chat_app.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/embedded_chat_app.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 246341,
+      "referenced_in": [
+        "guides/chat/start_chat.md"
+      ]
+    },
+    "enable_auto_metadata.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/enable_auto_metadata.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 166675,
+      "referenced_in": [
+        "guides/dataset/advanced/auto_metadata.md"
+      ]
+    },
+    "exeSQL.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/exeSQL.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 382833,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/execute_sql.md"
+      ]
+    },
+    "export_agent_as_json.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/export_agent_as_json.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 78364,
+      "referenced_in": [
+        "release_notes.md"
+      ]
+    },
+    "external/langfuse_ragflow-configuration.gif": {
+      "source_url": "https://langfuse.com/images/docs/ragflow/ragflow-configuration.gif",
+      "source_type": "langfuse",
+      "size_bytes": 3912508,
+      "referenced_in": [
+        "administrator/tracing.md"
+      ]
+    },
+    "external/langfuse_ragflow-trace-frame.png": {
+      "source_url": "https://langfuse.com/images/docs/ragflow/ragflow-trace-frame.png",
+      "source_type": "langfuse",
+      "size_bytes": 502011,
+      "referenced_in": [
+        "administrator/tracing.md"
+      ]
+    },
+    "external/readthedocs_ollama_pull.png": {
+      "source_url": "https://llm-assets.readthedocs.io/en/latest/_images/ollama_pull.png",
+      "source_type": "readthedocs",
+      "size_bytes": 5955,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "external/readthedocs_ollama_serve.png": {
+      "source_url": "https://llm-assets.readthedocs.io/en/latest/_images/ollama_serve.png",
+      "source_type": "readthedocs",
+      "size_bytes": 69476,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "feature_comparison_workflow.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/feature_comparison_workflow.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 46551,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/build_ecommerce_customer_support_agent.md"
+      ]
+    },
+    "file_chunks.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/file_chunks.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 898649,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md",
+        "quickstart.md"
+      ]
+    },
+    "filter_metadata.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/filter_metadata.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 65851,
+      "referenced_in": [
+        "guides/dataset/manage_metadata.md"
+      ]
+    },
+    "http_settings.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/http_settings.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 109310,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/http.md"
+      ]
+    },
+    "http_usage.PNG": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/http_usage.PNG",
+      "source_type": "ragflow-docs",
+      "size_bytes": 137184,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/http.md"
+      ]
+    },
+    "image_table_context_window.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/image_table_context_window.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 218380,
+      "referenced_in": [
+        "guides/dataset/set_context_window.md"
+      ]
+    },
+    "indexer.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/indexer.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 124396,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "indexing_model.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/indexing_model.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 206695,
+      "referenced_in": [
+        "guides/dataset/advanced/auto_metadata.md"
+      ]
+    },
+    "input_metadata.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/input_metadata.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 159391,
+      "referenced_in": [
+        "guides/dataset/set_metadata.md"
+      ]
+    },
+    "installation_booking_assistant.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/installation_booking_assistant.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 120791,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/build_ecommerce_customer_support_agent.md"
+      ]
+    },
+    "invite_user.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/invite_user.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 348682,
+      "referenced_in": [
+        "guides/team/manage_team_members.md"
+      ]
+    },
+    "login_token.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/login_token.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 873824,
+      "referenced_in": [
+        "references/http_api_reference.md"
+      ]
+    },
+    "manage_metadata.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/manage_metadata.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 72060,
+      "referenced_in": [
+        "guides/dataset/manage_metadata.md"
+      ]
+    },
+    "mcp_page.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/mcp_page.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 45748,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "memory_interface.PNG": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/memory_interface.PNG",
+      "source_type": "ragflow-docs",
+      "size_bytes": 53248,
+      "referenced_in": [
+        "guides/memory/use_memory.md"
+      ]
+    },
+    "metadata_field_settings.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/metadata_field_settings.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 111682,
+      "referenced_in": [
+        "guides/dataset/advanced/auto_metadata.md"
+      ]
+    },
+    "metadata_filtering_rules.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/metadata_filtering_rules.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 67789,
+      "referenced_in": [
+        "guides/dataset/manage_metadata.md"
+      ]
+    },
+    "parse_file.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/parse_file.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 248385,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md",
+        "quickstart.md"
+      ]
+    },
+    "parser1.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/parser1.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 55187,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "parser2.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/parser2.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 116190,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "planner_agent_framework_blocks.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/planner_agent_framework_blocks.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 192470,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "product_user_guide_workflow.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/product_user_guide_workflow.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 60668,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/build_ecommerce_customer_support_agent.md"
+      ]
+    },
+    "prompt_display.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/prompt_display.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 835207,
+      "referenced_in": [
+        "guides/chat/start_chat.md"
+      ]
+    },
+    "ragflow_api_key.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ragflow_api_key.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 137961,
+      "referenced_in": [
+        "develop/acquire_ragflow_api_key.md"
+      ]
+    },
+    "ragflow_vllm.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ragflow_vllm.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 139148,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "ragflow_vllm1.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ragflow_vllm1.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 67744,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "ragflow_vllm2.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ragflow_vllm2.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 208413,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "ragflow-gpustack11.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ragflow-gpustack11.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 293284,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "ragflow-gpustack22.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/ragflow-gpustack22.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 214047,
+      "referenced_in": [
+        "guides/models/deploy_local_llm.md"
+      ]
+    },
+    "reply_message.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/reply_message.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 66103,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/build_ecommerce_customer_support_agent.md"
+      ]
+    },
+    "retrieval_reference_design.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/retrieval_reference_design.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 187164,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/retrieval.md"
+      ]
+    },
+    "retrieval_test.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/retrieval_test.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 1391626,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md",
+        "quickstart.md"
+      ]
+    },
+    "retrieve_from_memory.PNG": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/retrieve_from_memory.PNG",
+      "source_type": "ragflow-docs",
+      "size_bytes": 137275,
+      "referenced_in": [
+        "guides/memory/use_memory.md"
+      ]
+    },
+    "save_to_memory.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/save_to_memory.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 134247,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/message.md",
+        "guides/memory/use_memory.md"
+      ]
+    },
+    "search_datasets.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/search_datasets.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 95303,
+      "referenced_in": [
+        "guides/dataset/configure_knowledge_base.md"
+      ]
+    },
+    "search_view.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/search_view.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 351363,
+      "referenced_in": [
+        "guides/ai_search.md"
+      ]
+    },
+    "set_default_models.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/set_default_models.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 347715,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md",
+        "guides/dataset/advanced/construct_knowledge_graph.md",
+        "guides/dataset/advanced/enable_raptor.md",
+        "guides/dataset/advanced/extract_table_of_contents.md"
+      ]
+    },
+    "set_metadata.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/set_metadata.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 170381,
+      "referenced_in": [
+        "guides/dataset/set_metadata.md"
+      ]
+    },
+    "set_metadata.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/set_metadata.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 74787,
+      "referenced_in": [
+        "guides/dataset/manage_metadata.md"
+      ]
+    },
+    "set_nested_object_output.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/set_nested_object_output.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 166579,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/code.md"
+      ]
+    },
+    "set_object_output.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/set_object_output.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 274998,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/code.md"
+      ]
+    },
+    "standalone_agent_framework_block.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/standalone_agent_framework_block.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 275847,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "standalone_user_prompt_variable.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/standalone_user_prompt_variable.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 409452,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "tavily_mcp_server.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/tavily_mcp_server.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 665382,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/agent.md"
+      ]
+    },
+    "team_view.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/team_view.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 308660,
+      "referenced_in": [
+        "guides/team/manage_team_members.md"
+      ]
+    },
+    "time_elapsed.jpg": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/time_elapsed.jpg",
+      "source_type": "ragflow-docs",
+      "size_bytes": 874140,
+      "referenced_in": [
+        "guides/chat/start_chat.md"
+      ]
+    },
+    "transformer1.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/transformer1.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 204086,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "transformer2.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/transformer2.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 148035,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "transformer3.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/transformer3.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 155733,
+      "referenced_in": [
+        "guides/agent/agent_quickstarts/ingestion_pipeline_quickstart.md"
+      ]
+    },
+    "webhook_mode.png": {
+      "source_url": "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/webhook_mode.png",
+      "source_type": "ragflow-docs",
+      "size_bytes": 66176,
+      "referenced_in": [
+        "guides/agent/agent_component_reference/begin.md"
+      ]
+    }
+  },
+  "failed_urls": [
+    "https://raw.githubusercontent.com/infiniflow/ragflow-docs/main/images/child_chunking_parser.png"
+  ]
+}
